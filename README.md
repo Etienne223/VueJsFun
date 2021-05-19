@@ -1,24 +1,14 @@
 # vue-js-quizz
 
-## Project setup
-```
-npm install
-```
+## Project goals
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The goal of this project was to get a first approach with the VueJS framework. I also tried for the first time using Tailwind CSS. It tooks me approx. one week to realize what I've done so far. Not much but it was not that easy to use tailwind and to discover VueJs at the same time.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project
 
-### Lints and fixes files
-```
-npm run lint
-```
+I had the idea to develop the frontend of a quizz game called "Question Mark". Using VueJS components, views, routes,... + Tailwind CSS. 
+Here is the main idea I had for the mockups :
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![mockup](src/assets/images/mockup.png)
+
+
