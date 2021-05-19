@@ -9,7 +9,7 @@ The goal of this project was to get a first approach with the VueJS framework. I
 I had the idea to develop the frontend of a quizz game called "Question Mark". Using VueJS components, views, routes,... + Tailwind CSS. 
 Here is the main idea I had for the mockups :
 
-![mockup]("src/assets/images/mockup.png")
+![mockup](src/assets/images/mockup.png)
 
 ## Not deployed
 
